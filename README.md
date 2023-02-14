@@ -1,5 +1,5 @@
 ## MarcComp.github.io
 
-# Manage file synchronization
+# My Xfig Fork:
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+This repository is a fork of what I've worked on during the time I took CMSC 355 at VCU.
